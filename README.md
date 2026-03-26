@@ -2,19 +2,19 @@
 <h3 align="center">💻 Aspiring Data Scientist | SWE Student 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=650&lines=Hi+I'm+Payel+👋;Data+Science+Enthusiast;Machine+Learning+Learner;Future+AI+Engineer+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Payel+👋;Future+Data+Scientist+💖;Machine+Learning+Learner;Python+Lover+🐍">
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260"/>
 </p>
 
 ---
 
 ## 💫 About Me
 - 🎓 Student at **Daffodil International University (DIU)**  
-- 💡 Passionate about **Data Science & AI**  
-- 📊 Love analyzing data & finding insights  
+- 💖 Passionate about **Data Science & AI**  
+- 📊 Love exploring data & finding insights  
 - 🤖 Currently learning **Machine Learning**  
 - 🚀 Dream: Become a Professional Data Scientist  
 
@@ -58,16 +58,9 @@
 
 ---
 
-## 🧠 Current Focus
-- 📚 Data Science & Machine Learning  
-- 📊 Data Visualization Projects  
-- 🧩 Problem Solving  
-
----
-
 ## 🌸 Fun Touch
-✨ Turning data into beautiful stories  
-💖 Code + Creativity = Me  
+💖 Turning data into beautiful stories  
+✨ Code + Creativity = Me  
 
 ---
 
