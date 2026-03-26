@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noume Akter Payel</h1>
-<h3 align="center">Aspiring Data Scientist | CSE Student</h3>
+<h3 align="center">Aspiring Data Scientist | SWE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer">
